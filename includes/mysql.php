@@ -3,7 +3,7 @@
 function openDB() {
     $db_hostname = "localhost";  //usually "localhost be default"
     $db_username = "root";  //your user name
-    $db_pass = "chess386";  //the password for your user
+    $db_pass = "";  //the password for your user
     $db_name = "web";  //the name of the database
 
     global $con;
